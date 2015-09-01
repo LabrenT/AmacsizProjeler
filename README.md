@@ -1,0 +1,2 @@
+# AmacsizProjeler
+Amaçsız Projeler
